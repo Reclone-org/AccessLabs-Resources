@@ -1,7 +1,7 @@
 # AccessLabs Incubator Shaker
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fadanka/AccessLabs-Resources-Version.20/4ecaf93de260e80b39c10dfe12b6a367a58cc54b/hardware/Shaker/Images/Assembled%20Shaker.jpg" alt="Assembled shaker" width="72%">
+  <img src="https://github.com/Fadanka/AccessLabs-Resources-Version.20/blob/81ab827224bcf39b26bfc94a89ca09642e70fcd8/hardware/Shaker/Images/Assmebled1.jpg" alt="Assembled shaker" width="72%">
 </p>
 
 <p align="center">
