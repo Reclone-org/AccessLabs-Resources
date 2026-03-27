@@ -77,12 +77,12 @@ The aim of the project is to provide a reproducible open-hardware shaker that is
 
 | Item | Qty | Cost | Supplier | Notes |
 |---|---:|---:|---|---|
-| ESP32-S3 DevKitC-1 microcontroller | 1 | €22.99 | Amazon | Used because it was available in the lab from Agustin’s project. The original Adafruit board was not used because it works only with 5 V motors and was more sophisticated than required for this application. |
+| ESP32-S3 DevKitC-1 microcontroller | 1 | €22.99 | Amazon | Used due to availability. Offers potential for future upgrades. |
 | DRV8871 DC motor driver board (`3.6 A`, PWM control) | 2 | €9.99 | Amazon | MOSFET-based H-bridge with lower power loss, higher current handling, wider voltage range, and built-in protection features for improved reliability during prolonged operation. |
 | 10K rotary potentiometer with cap and washer | 1 | €8.99 | Amazon | Input device for speed control. |
-| 12 V DC worm geared motor (`370WG`, `375 RPM`) | 2 | €18.99 | Amazon | Preferred for cost effectiveness. Torque under full load with 250 mL culture flasks may need further evaluation. |
+| 12 V DC worm geared motor (`370WG`, `375 RPM`) | 2 | €18.99 | Amazon | Preferred choice for cost effectiveness. Recommended to use similar motor with high torque and biuilt with better materials for prolonged use. |
 | DC barrel power connector / jack adapter set | 1 | €7.99 | Amazon | Includes multiple connectors and inline rocker switches; useful for other projects as well. |
-| 12 V power cable / adapter | 2 | €12.90 | Amazon | Useful for other projects as well. |
+| 12 V power cable / adapter | 2 | €12.90 | Amazon | Portable design with multi-project adapter compatibility reduces future tooling costs. |
 | LM2596 step-down DC-DC buck converter module | 1 | €11.19 | Amazon | Required to safely power the full circuit from a single 12 V external adapter via the DC jack. |
 
 ### Tools and consumables
@@ -90,6 +90,8 @@ The aim of the project is to provide a reproducible open-hardware shaker that is
 - Strong instant glue
 - Screwdriver set
 - Soldering station
+- Jumper wires
+- Double sided tape
 ---
 
 ## Printing recommendations
