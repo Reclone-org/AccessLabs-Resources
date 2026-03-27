@@ -64,25 +64,32 @@ The aim of the project is to provide a reproducible open-hardware shaker that is
 | `Enclosure_Base Cover` | 1 |
 | `Enclosure_Feet` | 1 set |
 
-### Electronics
+### Purchased parts
 
-- ESP32-S3 DevKitC-1 microcontroller
-- DRV8871 DC motor driver board
-- 10K rotary potentiometer
-- DC motor / gear motor
-- DC barrel jack power connector
-- 12V power cable
-- LM2596 step-down DC-DC buck converter
-- Wiring, headers, and connectors as required
+#### Enclosure and mechanism
 
-### Tools and other materials
+| Item | Qty | Cost | Supplier | Notes |
+|---|---:|---:|---|---|
+| 608ZZ miniature double-protection metal ball bearings (`8 mm x 22 mm x 7 mm`) | 1 | €10.99 | Amazon | / |
+| M3 screws, bolts, nuts, and washers kit (`870 pcs`) | 1 | €14.98 | Amazon | / |
+
+#### Electronics
+
+| Item | Qty | Cost | Supplier | Notes |
+|---|---:|---:|---|---|
+| ESP32-S3 DevKitC-1 microcontroller | 1 | €22.99 | Amazon | Used because it was available in the lab from Agustin’s project. The original Adafruit board was not used because it works only with 5 V motors and was more sophisticated than required for this application. |
+| DRV8871 DC motor driver board (`3.6 A`, PWM control) | 2 | €9.99 | Amazon | MOSFET-based H-bridge with lower power loss, higher current handling, wider voltage range, and built-in protection features for improved reliability during prolonged operation. |
+| 10K rotary potentiometer with cap and washer | 1 | €8.99 | Amazon | Input device for speed control. |
+| 12 V DC worm geared motor (`370WG`, `375 RPM`) | 2 | €18.99 | Amazon | Preferred for cost effectiveness. Torque under full load with 250 mL culture flasks may need further evaluation. |
+| DC barrel power connector / jack adapter set | 1 | €7.99 | Amazon | Includes multiple connectors and inline rocker switches; useful for other projects as well. |
+| 12 V power cable / adapter | 2 | €12.90 | Amazon | Useful for other projects as well. |
+| LM2596 step-down DC-DC buck converter module | 1 | €11.19 | Amazon | Required to safely power the full circuit from a single 12 V external adapter via the DC jack. |
+
+### Tools and consumables
 
 - Strong instant glue
-- M3 screws, nuts, and washers kit
-- 608ZZ bearings (`8 mm x 22 mm x 7 mm`)
 - Screwdriver set
 - Soldering station
-
 ---
 
 ## Printing recommendations
