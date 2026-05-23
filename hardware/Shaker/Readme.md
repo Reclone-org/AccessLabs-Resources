@@ -84,6 +84,7 @@ The aim of the project is to provide a reproducible open-hardware shaker that is
 | DC barrel power connector / jack adapter set | 1 | €7.99 | Amazon | Includes multiple connectors and inline rocker switches; useful for other projects as well. |
 | 12 V power cable / adapter | 2 | €12.90 | Amazon | Portable design with multi-project adapter compatibility reduces future tooling costs. |
 | LM2596 step-down DC-DC buck converter module | 1 | €11.19 | Amazon | Required to safely power the full circuit from a single 12 V external adapter via the DC jack. |
+| ARCELI 20x4 2004 5 V DC LCD display module with TWI/IIC I2C interface adapter (`Blue/2004`) | 1 | €10.77 | Amazon | Used for system status display, speed display, and approximate RPM readout. I2C interface simplifies wiring to the ESP32-S3. |
 
 ### Tools and consumables
 
@@ -249,23 +250,78 @@ Recommended first check:
 ### D. Electronics assembly
 
 #### Main electronics
+
 - ESP32-S3 DevKitC-1
 - DRV8871 motor driver
-- 10K potentiometer
-- LM2596 buck converter
-- DC motor
-- 12V DC input connector
+- 10K rotary potentiometer
+- ARCELI 20x4 2004 LCD display module with TWI/IIC I2C interface (`5 V`, `Blue/2004`)
+- LM2596 step-down DC-DC buck converter
+- 12 V DC worm geared motor (`370WG`, `375 RPM`)
+- 12 V DC input connector
 
-#### Suggested workflow
-1. Mount the motor and controller hardware inside the enclosure.
-2. Install the DC power input.
-3. Wire the motor to the motor driver.
-4. Wire the motor driver control lines to the ESP32-S3.
-5. Wire the potentiometer to an ESP32-S3 analog input.
-6. Add the buck converter if voltage regulation is required for logic electronics.
-7. Confirm that all grounds are shared correctly.
+#### Electronics overview
 
-> Add a wiring diagram here when available.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Reclone-org/AccessLabs-Resources/a3064f7d6fa062d5c8d652163d7769e257eb15cf/hardware/Shaker/Images/Electrionics%20parts%20.jpg" alt="Electronics parts overview" width="60%">
+</p>
+
+<p align="center">
+  <em>Electronics parts used for the shaker build.</em>
+</p>
+
+#### Instructions
+
+1. **Prepare the motor driver**  
+   Solder the DRV8871 motor driver board according to the manufacturer's instructions.
+
+2. **Connect the power input**  
+   Connect the DC barrel power connector to the **input** of the LM2596 buck converter.
+
+3. **Set the regulated output**  
+   Power the LM2596 from the 12 V input.  
+   Adjust the onboard potentiometer until the output is **5 V**.
+
+4. **Wire the low-voltage electronics**  
+   Connect the regulated **5 V** output and **GND** from the LM2596 to the ESP32-S3 and the LCD power lines.
+
+5. **Connect the LCD**  
+   Wire the LCD I2C backpack to:
+   - **5 V**
+   - **GND**
+   - **SDA** on the ESP32-S3
+   - **SCL** on the ESP32-S3
+
+6. **Connect the control circuit**  
+   Wire the potentiometer, DRV8871, ESP32-S3, and motor according to the wiring diagram.
+
+7. **Check the wiring**  
+   Before powering the full circuit, confirm that:
+   - all grounds are shared
+   - the LM2596 output is set to **5 V**
+   - the LCD is powered from **5 V**
+   - the correct pins are used for **SDA** and **SCL**
+   - the ESP32-S3 pins match the firmware
+   - wires are secure and clear of moving parts
+
+8. **Run a bench test**  
+   Power the circuit and confirm that:
+   - the ESP32-S3 starts correctly
+   - the LCD initializes correctly
+   - the potentiometer input responds correctly
+   - the motor driver powers on
+   - the motor runs as expected
+
+> **Important:** If you use a different ESP32 board, LCD backpack, or pin mapping, check the pinout and update the wiring and firmware as needed.
+
+#### Wiring diagram
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Reclone-org/AccessLabs-Resources/a3064f7d6fa062d5c8d652163d7769e257eb15cf/hardware/Shaker/Images/Circuit_Design.jpg" alt="Wiring diagram" width="70%">
+</p>
+
+<p align="center">
+  <em>Wiring diagram for the shaker electronics assembly.</em>
+</p>
 
 ---
 
