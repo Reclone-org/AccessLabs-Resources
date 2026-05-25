@@ -323,6 +323,14 @@ Recommended first check:
   <em>Wiring diagram for the shaker electronics assembly.</em>
 </p>
 
+#### Electronic assembly overview 1
+<p align="center">
+  <img src="https://github.com/Reclone-org/AccessLabs-Resources/blob/146c8ff39164a329773417a12c168016dd412f1f/hardware/Shaker/Electronics/Electronics_Assembly_overview_1.jpg" alt="Electronic assembly overview 1" width="70%">
+</p>
+
+<p align="center">
+  <em>Electronic assembly overview 1.</em>
+</p>
 ---
 
 ### E. Firmware
