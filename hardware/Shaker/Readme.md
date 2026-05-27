@@ -17,7 +17,7 @@
 
 ## Overview
 
-This project is a compact incubator shaker built around:
+This repository documents the design and construction of a compact incubator shaker built around:
 
 - a **3D-printed mechanical assembly**
 - an **ESP32-S3 DevKitC-1** controller
@@ -25,7 +25,7 @@ This project is a compact incubator shaker built around:
 - a **DRV8871 motor driver**
 - interchangeable adapters for **flasks**, **tubes**, and **plates**
 
-The aim of the project is to provide a reproducible open-hardware shaker that is easy to print, assemble, adapt, and improve.
+The aim of the project is to provide a reproducible open-hardware shaker that is easy to print, assemble, adapt, and improve for different laboratory applications. The shaker was designed with a compact footprint to fit inside small laboratory incubators and operate as a shaking incubator.
 
 ---
 
@@ -35,7 +35,6 @@ The aim of the project is to provide a reproducible open-hardware shaker that is
 - Interchangeable tray adapters
 - ESP32-S3 based control
 - PWM motor speed control
-- Potentiometer-based user input
 - LCD and RGB LED feedback
 - Open documentation for replication and customization
 
@@ -365,8 +364,6 @@ The firmware acts as the control system for the shaker.
   - speed percentage
   - approximate RPM
   - raw potentiometer value
-- periodically displays a shaker activity message
-- uses RGB LED feedback for status indication
 
 #### Speed control logic
 A dead zone is used so the shaker remains reliably off at low potentiometer values.
