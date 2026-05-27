@@ -1,0 +1,5 @@
+--flash-mode dio --flash-freq 80m --flash-size 4MB  
+0x0 Shaker_2_0_Program_DRV8871.ino.bootloader.bin  
+0x8000 Shaker_2_0_Program_DRV8871.ino.partitions.bin  
+0xe000 boot_app0.bin  
+0x10000 Shaker_2_0_Program_DRV8871.ino.bin 
