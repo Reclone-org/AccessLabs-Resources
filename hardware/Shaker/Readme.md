@@ -303,16 +303,6 @@ Recommended first check:
    - the ESP32-S3 pins match the firmware
    - wires are secure and clear of moving parts
 
-8. **Run a bench test**  
-   Power the circuit and confirm that:
-   - the ESP32-S3 starts correctly
-   - the LCD initializes correctly
-   - the potentiometer input responds correctly
-   - the motor driver powers on
-   - the motor runs as expected
-
-> **Important:** If you use a different ESP32 board, LCD backpack, or pin mapping, check the pinout and update the wiring and firmware as needed.
-
 #### Wiring diagram
 
 <p align="center">
@@ -331,6 +321,16 @@ Recommended first check:
 <p align="center">
   <em>Electronic assembly overview.</em>
 </p>
+
+8. **Run a bench test**  
+   Power the circuit and confirm that:
+   - the ESP32-S3 starts correctly
+   - the LCD initializes correctly
+   - the potentiometer input responds correctly
+   - the motor driver powers on
+   - the motor runs as expected
+
+> **Important:** If you use a different ESP32 board, LCD backpack, or pin mapping, check the pinout and update the wiring and firmware as needed.
 
 #### Circuit assembly and bench testing 
 <p align="center">
