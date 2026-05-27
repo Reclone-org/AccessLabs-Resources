@@ -387,6 +387,10 @@ Before uploading the firmware:
 
    [Shaker software folder](https://github.com/Reclone-org/AccessLabs-Resources/tree/841adbdfd7efff96190e474088e382160f662ce2/hardware/Shaker/Software)
 
+5. Open the firmware file:
+
+   **`Shaker 2.0_Program_DRV8871.ino`**
+
 #### Using Arduino IDE
 
 1. Open **Arduino IDE**.
@@ -400,21 +404,20 @@ Before uploading the firmware:
 
    Board selection reference:
 
-   [Board selection screenshot](https://github.com/Reclone-org/AccessLabs-Resources/blob/c56b7725d194fec7f952a9e6bda650d4a0742f8c/hardware/Shaker/Images/Board%20selection.png)
+   ![Board selection in Arduino IDE](https://github.com/Reclone-org/AccessLabs-Resources/blob/c56b7725d194fec7f952a9e6bda650d4a0742f8c/hardware/Shaker/Images/Board%20selection.png?raw=true)
 
 6. Select the correct serial **Port**.
 7. Click **Verify** to compile the firmware.
 
    Compile sketch reference:
 
-   [Compile sketch screenshot](https://github.com/Reclone-org/AccessLabs-Resources/blob/c56b7725d194fec7f952a9e6bda650d4a0742f8c/hardware/Shaker/Images/Compile%20sketch_2026-05-12%20054341.jpg)
+   ![Compile sketch in Arduino IDE](https://github.com/Reclone-org/AccessLabs-Resources/blob/c56b7725d194fec7f952a9e6bda650d4a0742f8c/hardware/Shaker/Images/Compile%20sketch_2026-05-12%20054341.jpg?raw=true)
 
    > **Note:** It is acceptable to ignore the warning message shown during compilation, as long as the sketch compiles successfully and no upload-blocking error is reported.
 
 8. Click **Upload** to upload the firmware to the ESP32-S3.
 9. Once the upload is complete, unplug the cable from the programming/COM port.
 10. Power the circuit and confirm that the shaker circuit behaves as expected.
-
 ---
 
 ### G. Testing
