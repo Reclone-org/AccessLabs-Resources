@@ -287,8 +287,8 @@ Recommended first check:
    Wire the LCD I2C backpack to:
    - **5 V**
    - **GND**
-   - **SDA** on the ESP32-S3
-   - **SCL** on the ESP32-S3
+   - **SDA** on the ESP32-S3 (pin 21)
+   - **SCL** on the ESP32-S3 (pin 17)
 
 6. **Connect the control circuit**  
    Wire the potentiometer, DRV8871, ESP32-S3, and motor according to the wiring diagram.
@@ -386,10 +386,6 @@ Before uploading the firmware:
 4. Download the firmware from the software folder:
 
    [Shaker software folder](https://github.com/Reclone-org/AccessLabs-Resources/tree/841adbdfd7efff96190e474088e382160f662ce2/hardware/Shaker/Software)
-
-5. Open the firmware file:
-
-   **`Shaker 2.0_Program_DRV8871.ino`**
 
 #### Using Arduino IDE
 
