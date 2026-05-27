@@ -324,7 +324,7 @@ Recommended first check:
 8. **Run a bench test**  
    Power the circuit and confirm that:
    - the ESP32-S3 starts correctly
-   - the LCD initializes correctly
+   - the LCD initializes correctly (If needed, adjust the screen brightness by turning the contrast knob.)
    - the potentiometer input responds correctly
    - the motor driver powers on
    - the motor runs as expected
