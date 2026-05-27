@@ -376,17 +376,48 @@ A dead zone is used so the shaker remains reliably off at low potentiometer valu
 
 ### F. Software installation
 
-#### Using Arduino IDE
-1. Open **Arduino IDE**
-2. Go to **Tools**
-3. Go to **Board**
-4. Select **ESP32S3 Dev Module**
-5. Select the correct serial **Port**
-6. Open the shaker firmware sketch
-7. Click **Verify**
-8. Click **Upload**
+#### Prerequisites
 
-You can later add a direct link to the firmware sketch once it is committed in the repository.
+Before uploading the firmware:
+
+1. Make sure the circuit is **not powered on**.
+2. Connect the **ESP32-S3 DevKitC-1** to the computer using the board programming/COM port.
+3. Install **Arduino IDE**.
+4. Download the firmware from the software folder:
+
+   [Shaker software folder](https://github.com/Reclone-org/AccessLabs-Resources/tree/841adbdfd7efff96190e474088e382160f662ce2/hardware/Shaker/Software)
+
+5. Open the firmware file:
+
+   **`Shaker 2.0_Program_DRV8871.ino`**
+
+#### Using Arduino IDE
+
+1. Open **Arduino IDE**.
+2. Open the shaker firmware sketch:
+
+   **`Shaker 2.0_Program_DRV8871.ino`**
+
+3. Go to **Tools**.
+4. Go to **Board**.
+5. Select **ESP32S3 Dev Module**.
+
+   Board selection reference:
+
+   [Board selection screenshot](https://github.com/Reclone-org/AccessLabs-Resources/blob/c56b7725d194fec7f952a9e6bda650d4a0742f8c/hardware/Shaker/Images/Board%20selection.png)
+
+6. Select the correct serial **Port**.
+7. Click **Verify** to compile the firmware.
+
+   Compile sketch reference:
+
+   [Compile sketch screenshot](https://github.com/Reclone-org/AccessLabs-Resources/blob/c56b7725d194fec7f952a9e6bda650d4a0742f8c/hardware/Shaker/Images/Compile%20sketch_2026-05-12%20054341.jpg)
+
+   > **Note:** It is acceptable to ignore the warning message shown during compilation, as long as the sketch compiles successfully and no upload-blocking error is reported.
+
+8. Click **Upload** to upload the firmware to the ESP32-S3.
+9. Once the upload is complete, unplug the cable from the programming/COM port.
+10. Power the circuit and confirm that the shaker circuit behaves as expected.
 
 ---
 
