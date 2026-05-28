@@ -440,16 +440,47 @@ Before final assembly, perform a bench test to confirm that the electronics and 
 
 ### H. Final assembly
 
-1. Install the tray support and motion mechanism.
-2. Attach the tray platform.
-3. Fit the required vessel adapter:
+Route and secure all wiring inside the enclosure.
+
+1. Install the power jack:
+   - Place the power jack in its dedicated position.
+   - Close the bottom lid to help keep the jack correctly positioned.
+
+2. Install the LCD screen:
+   - Insert the LCD screen into the dedicated opening in the enclosure.
+   - The fit is intentionally tight so that the screen can be held in place without screws or glue.
+   - Apply gentle, even pressure when inserting the screen until it sits firmly in place.
+
+3. Install the motor:
+   - Place the motor into the motor holder.
+   - Make sure it is seated correctly and does not move during operation.
+
+4. Install the ESP32-S3 board:
+   - Place the ESP32-S3 board inside the enclosure.
+   - Use double-sided tape to secure it to the enclosure wall.
+   - Adjust the board position so that the RGB LED aligns with the corresponding hole in the enclosure.
+
+5. Install the potentiometer:
+   - Remove the nut and washer from the potentiometer.
+   - Insert the potentiometer from inside the enclosure.
+   - Reinstall the washer and nut from the outside of the enclosure to secure it in place.
+
+6. Close the enclosure using the top and bottom covers.
+
+7. Install the tray support and motion mechanism.
+
+8. Glue the feet to the bottom of the enclosure.
+
+9. Screw the top and bottom enclosure covers in place.
+    
+10. Attach the tray platform.
+
+11. Fit the required vessel adapter:
    - flask adapter
    - tube adapter
    - plate adapter
-4. Route and secure all wiring.
-5. Close the enclosure with the top and base covers.
-6. Add the feet.
-7. Run a final low-speed test before regular operation.
+
+13. Run a final low-speed test before regular operation.
 
 ---
 
