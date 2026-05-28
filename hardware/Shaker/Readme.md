@@ -424,17 +424,9 @@ Before uploading the firmware:
 
 Before final assembly, perform a bench test to confirm that the electronics and firmware behave as expected.
 
-#### Bench test video
+#### Bench test preview
 
-<video
-  src="https://github.com/Reclone-org/AccessLabs-Resources/blob/08afdaf5fe64cb9ac954e42d3c4990fea31591c5/hardware/Shaker/Electronics/Bench%20Test.mp4?raw=true"
-  controls
-  autoplay
-  muted
-  loop
-  playsinline
-  width="100%">
-</video>
+![Bench test showing circuit behavior after firmware upload](https://github.com/Reclone-org/AccessLabs-Resources/blob/95f5a2766c3200be75acf6fcc52c1909f6fb0735/hardware/Shaker/Electronics/Bench%20Test.webp?raw=true)
 
 #### Test checklist
 
