@@ -422,19 +422,20 @@ Before uploading the firmware:
 
 ### G. Testing
 
-Before final assembly:
+Before final assembly, perform a bench test to confirm that the electronics and firmware behave as expected.
 
-1. Power the system without load.
-2. Confirm that the ESP32-S3 starts correctly.
-3. Confirm that the LCD initializes.
+#### Bench test video
+
+<video src="https://github.com/Reclone-org/AccessLabs-Resources/blob/08afdaf5fe64cb9ac954e42d3c4990fea31591c5/hardware/Shaker/Electronics/Bench%20Test.mp4?raw=true" controls width="100%">
+</video>
+
+#### Test checklist
+
+1. Power the system.
+2. Confirm that the **ESP32-S3** starts correctly.
+3. Confirm that the LCD initializes correctly. If needed, adjust the screen brightness by turning the contrast knob.
 4. Confirm that the potentiometer changes the displayed value.
 5. Confirm that the motor responds smoothly to PWM control.
-6. Check for wobble, friction, or mechanical interference.
-7. Stop immediately if:
-   - bearings bind
-   - parts rub against the enclosure
-   - the motor mount shifts
-   - the tray becomes unstable
 
 ---
 
