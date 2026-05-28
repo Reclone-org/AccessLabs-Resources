@@ -443,7 +443,7 @@ Before final assembly, perform a bench test to confirm that the electronics and 
 Route and secure all wiring inside the enclosure.
 
 1. Install the power jack:
-   - Place the power jack in its dedicated position.
+   - Place the power jack in its dedicated position. (add soft glue to firmly fix it)
    - Close the bottom lid to help keep the jack correctly positioned.
 
 2. Install the LCD screen:
@@ -465,22 +465,33 @@ Route and secure all wiring inside the enclosure.
    - Insert the potentiometer from inside the enclosure.
    - Reinstall the washer and nut from the outside of the enclosure to secure it in place.
 
-6. Close the enclosure using the top and bottom covers.
+#### Peview before final test
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Reclone-org/AccessLabs-Resources/a3064f7d6fa062d5c8d652163d7769e257eb15cf/hardware/Shaker/Images/Circuit_Design.jpg" alt="Peview before final test" width="70%">
+</p>
 
-7. Install the tray support and motion mechanism.
 
-8. Glue the feet to the bottom of the enclosure.
+6. Run a final low-speed test before regular operation.
 
-9. Screw the top and bottom enclosure covers in place.
+#### Final test preview
+
+![Final test after mounting the all parts in the enclosure](https://github.com/Reclone-org/AccessLabs-Resources/blob/95f5a2766c3200be75acf6fcc52c1909f6fb0735/hardware/Shaker/Electronics/Bench%20Test.webp?raw=true)
+
+
+7. Close the enclosure using the top and bottom covers.
+
+8. Install the tray support and motion mechanism.
+
+9. Glue the feet to the bottom of the enclosure.
+
+10. Screw the top and bottom enclosure covers in place.
     
-10. Attach the tray platform.
+11. Attach the tray platform.
 
-11. Fit the required vessel adapter:
+12. Fit the required vessel adapter:
    - flask adapter
    - tube adapter
    - plate adapter
-
-13. Run a final low-speed test before regular operation.
 
 ---
 
