@@ -475,7 +475,7 @@ Route and secure all wiring inside the enclosure.
 
 #### Final test preview
 
-![Final test after mounting the all parts in the enclosure](https://github.com/Reclone-org/AccessLabs-Resources/blob/95f5a2766c3200be75acf6fcc52c1909f6fb0735/hardware/Shaker/Electronics/Bench%20Test.webp?raw=true)
+![Final test after mounting the all parts in the enclosure](https://github.com/Reclone-org/AccessLabs-Resources/blob/5db09aa9fcda28ca25f65eb672d3c91ae225a04e/hardware/Shaker/Assembly-and-set-up/Final%20Test.webp?raw=true)
 
 
 7. Close the enclosure using the top and bottom covers.
