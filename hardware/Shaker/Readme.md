@@ -467,7 +467,7 @@ Route and secure all wiring inside the enclosure.
 
 #### Peview before final test
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Reclone-org/AccessLabs-Resources/a3064f7d6fa062d5c8d652163d7769e257eb15cf/hardware/Shaker/Images/Circuit_Design.jpg" alt="Peview before final test" width="70%">
+  <img src="https://github.com/Reclone-org/AccessLabs-Resources/blob/f5452bf5d0a53ace829f39b340297bf367cac5e2/hardware/Shaker/Assembly-and-set-up/Preview%20before%20final%20test.jpg" alt="Peview before final test" width="70%">
 </p>
 
 
