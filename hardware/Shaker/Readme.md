@@ -63,6 +63,29 @@ The aim of the project is to provide a reproducible open-hardware shaker that is
 | `Enclosure_Base Cover` | 1 |
 | `Enclosure_Feet` | 1 set |
 
+### 3D model previews
+
+The 3D-printable parts are provided as STL files. Click any animated preview below to open the corresponding STL file in GitHub's interactive 3D viewer.
+
+| Part | Animated preview | STL file |
+|---|---|---|
+| Enclosure base cover | <a href="3D%20models/Enclosure_Base%20Cover.stl"><img src="3D%20models/Animations/Enclosure_Base%20Cover.gif" alt="Enclosure base cover preview" width="220"></a> | [`Enclosure_Base Cover.stl`](3D%20models/Enclosure_Base%20Cover.stl) |
+| Enclosure feet | <a href="3D%20models/Enclosure_Feet.stl"><img src="3D%20models/Animations/Enclosure_Feet.gif" alt="Enclosure feet preview" width="220"></a> | [`Enclosure_Feet.stl`](3D%20models/Enclosure_Feet.stl) |
+| Gear motor mount | <a href="3D%20models/Enclosure_Gear%20Motor%20Mount.stl"><img src="3D%20models/Animations/Enclosure_Gear%20Motor%20Mount.gif" alt="Gear motor mount preview" width="220"></a> | [`Enclosure_Gear Motor Mount.stl`](3D%20models/Enclosure_Gear%20Motor%20Mount.stl) |
+| Main housing | <a href="3D%20models/Enclosure_Main%20Housing.stl"><img src="3D%20models/Animations/Enclosure_Main%20Housing.gif" alt="Main housing preview" width="220"></a> | [`Enclosure_Main Housing.stl`](3D%20models/Enclosure_Main%20Housing.stl) |
+| Top cover | <a href="3D%20models/Enclosure_Top%20Cover.stl"><img src="3D%20models/Animations/Enclosure_Top%20Cover.gif" alt="Top cover preview" width="220"></a> | [`Enclosure_Top Cover.stl`](3D%20models/Enclosure_Top%20Cover.stl) |
+| Flask adapter lid retainer | <a href="3D%20models/Flask%20adapter_Lid%20retainer%20%28Print%202%20copies%29.stl"><img src="3D%20models/Animations/Flask%20adapter_Lid%20retainer%20%28Print%201%20set%29%202.gif" alt="Flask adapter lid retainer preview" width="220"></a> | [`Flask adapter_Lid retainer (Print 2 copies).stl`](3D%20models/Flask%20adapter_Lid%20retainer%20%28Print%202%20copies%29.stl) |
+| Flask adapter lid | <a href="3D%20models/Flask%20adapter_Lid_%28Print%202%20copies%29.stl"><img src="3D%20models/Animations/Flask%20adapter_Lid_%28Print%202%20copies%29.gif" alt="Flask adapter lid preview" width="220"></a> | [`Flask adapter_Lid_(Print 2 copies).stl`](3D%20models/Flask%20adapter_Lid_%28Print%202%20copies%29.stl) |
+| Connecting link | <a href="3D%20models/Motion%20Mechanism_Connecting%20Link%20%28Print%20two%20copies%29.stl"><img src="3D%20models/Animations/Motion%20Mechanism_Connecting%20Link%20%28Print%20two%20copies%29.gif" alt="Connecting link preview" width="220"></a> | [`Motion Mechanism_Connecting Link (Print two copies).stl`](3D%20models/Motion%20Mechanism_Connecting%20Link%20%28Print%20two%20copies%29.stl) |
+| Motor motion linker | <a href="3D%20models/Motion%20Mechanism_Motor%20motion%20linker%20%286mm%20Shaft%29.stl"><img src="3D%20models/Animations/Motion%20Mechanism_Motor%20motion%20linker%20%286mm%20Shaft%29.gif" alt="Motor motion linker preview" width="220"></a> | [`Motion Mechanism_Motor motion linker (6mm Shaft).stl`](3D%20models/Motion%20Mechanism_Motor%20motion%20linker%20%286mm%20Shaft%29.stl) |
+| Nut holders | <a href="3D%20models/Motion%20Mechanism_Nut%20holders%20%28Print%20two%20copies%29.stl"><img src="3D%20models/Animations/Motion%20Mechanism_Nut%20holders%20%28Print%20two%20copies%29.gif" alt="Nut holders preview" width="220"></a> | [`Motion Mechanism_Nut holders (Print two copies).stl`](3D%20models/Motion%20Mechanism_Nut%20holders%20%28Print%20two%20copies%29.stl) |
+| Screw holders | <a href="3D%20models/Motion%20Mechanism_Screw%20holders.stl"><img src="3D%20models/Animations/Motion%20Mechanism_Screw%20holders%20%28print%201%20set%29.gif" alt="Screw holders preview" width="220"></a> | [`Motion Mechanism_Screw holders.stl`](3D%20models/Motion%20Mechanism_Screw%20holders.stl) |
+| Tray support bracket | <a href="3D%20models/Motion%20Mechanism_Tray%20Support%20Bracket.stl"><img src="3D%20models/Animations/Motion%20Mechanism_Tray%20Support%20Bracket.gif" alt="Tray support bracket preview" width="220"></a> | [`Motion Mechanism_Tray Support Bracket.stl`](3D%20models/Motion%20Mechanism_Tray%20Support%20Bracket.stl) |
+| Plate adapter | <a href="3D%20models/Plate%20adapter.stl"><img src="3D%20models/Animations/Plate%20adapter.gif" alt="Plate adapter preview" width="220"></a> | [`Plate adapter.stl`](3D%20models/Plate%20adapter.stl) |
+| Tray main platform | <a href="3D%20models/Tray_Main%20Platform.stl"><img src="3D%20models/Animations/Tray_Main%20Platform.gif" alt="Tray main platform preview" width="220"></a> | [`Tray_Main Platform.stl`](3D%20models/Tray_Main%20Platform.stl) |
+| Tray screws and nuts | <a href="3D%20models/Tray_Screws%20and%20nuts%20%28Print%202%20copies%20of%20each%29.stl"><img src="3D%20models/Animations/Tray_Screws%20and%20nuts%20%28Print%202%20copies%20of%20each%29.gif" alt="Tray screws and nuts preview" width="220"></a> | [`Tray_Screws and nuts (Print 2 copies of each).stl`](3D%20models/Tray_Screws%20and%20nuts%20%28Print%202%20copies%20of%20each%29.stl) |
+| Tube adapter, 15 mL and 50 mL | <a href="3D%20models/Tube%20Adapter_15%20mL%20and%2050%20mL.stl"><img src="3D%20models/Animations/Tube%20Adapter_15%20mL%20and%2050%20mL%202.gif" alt="Tube adapter preview" width="220"></a> | [`Tube Adapter_15 mL and 50 mL.stl`](3D%20models/Tube%20Adapter_15%20mL%20and%2050%20mL.stl) |
+
 ### Purchased parts
 
 #### Enclosure and mechanism
