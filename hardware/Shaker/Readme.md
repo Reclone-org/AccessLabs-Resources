@@ -549,26 +549,59 @@ For best results:
 
 ---
 
-## Known limitations
+## ⚠️ Known limitations
 
-- RPM is estimated, not encoder measured
-- assembly photos and wiring diagrams can still be expanded
-- documentation may evolve as the mechanical design is refined
+- 🧭 **RPM is estimated, not directly measured.**  
+  The current design does not use an encoder or tachometer, so the displayed or expected RPM is based on motor control settings rather than closed-loop speed feedback.
+
+- ⚙️ **Motor performance may vary.**  
+  The actual shaking speed and stability can depend on the motor quality, load, adapter type, vessel weight, and power supply used.
+
+- ⏱️ **Long-duration operation has not been fully validated.**  
+  For prolonged use, such as continuous operation for approximately **48 hours or more**, a higher-quality or more suitable motor may be required.
+
+- 🌡️ **Heat and wear should be monitored.**  
+  During extended operation, check for motor heating, bearing wear, loose fasteners, and mechanical drift.
+
+- ⚖️ **Load balance is important.**  
+  Uneven loading of flasks, tubes, or plates may cause vibration, wobble, or reduced motor performance.
+
+- 🧊 **The shaker does not provide temperature control.**  
+  It is designed to fit inside a small laboratory incubator and operate as a shaking platform within that environment.
+
+- 📝 **Documentation may evolve.**  
+  The design files, assembly instructions, and firmware may be updated as the mechanical design is refined and additional testing is completed.
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
-Improvements are welcome.
+Improvements, suggestions, and validation data are welcome.
 
 Useful contributions include:
-- better assembly photos
-- wiring diagrams
-- firmware improvements
-- adapter variants
-- validation tests
-- print optimization notes
 
+- 🔧 **Motor recommendations**  
+  Suggestions for a more suitable motor, especially for stable RPM control and prolonged operation.
+
+- 📊 **Validation data**  
+  RPM measurements, load tests, long-duration tests, temperature-related performance checks, and general performance observations.
+
+- 🧪 **Adapter variants**  
+  New adapter designs for additional vessels or labware beyond flasks, tubes, and plates.
+
+- 🏗️ **Mechanical design improvements**  
+  Improvements related to stability, balance, durability, compactness, and ease of assembly.
+
+- 💻 **Firmware improvements**  
+  Better speed control, calibration features, safety limits, display improvements, or optional encoder support.
+
+- 🧩 **Custom PCB design**  
+  A compact PCB to simplify the electronics, reduce wiring, improve reliability, and lower the overall cost.
+
+- 📚 **Documentation improvements**  
+  Clarification requests or improvements for unclear assembly steps.
+
+Contributions can be proposed through issues, pull requests, or design discussions.
 ---
 
 ## Project note
