@@ -515,8 +515,71 @@ Route and secure all wiring inside the enclosure.
    - flask adapter
    - tube adapter
    - plate adapter
+     
+## 📸 Assembled shaker gallery
 
----
+The images below show the fully assembled incubator shaker from different angles.
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="Images/Assembled%20shaker/IMG20260530154236.jpg" alt="Assembled shaker view 1" width="280">
+    </td>
+    <td align="center" width="33%">
+      <img src="Images/Assembled%20shaker/IMG20260530154253.jpg" alt="Assembled shaker view 2" width="280">
+    </td>
+    <td align="center" width="33%">
+      <img src="Images/Assembled%20shaker/IMG20260530154257.jpg" alt="Assembled shaker view 3" width="280">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="Images/Assembled%20shaker/IMG20260530154315.jpg" alt="Assembled shaker view 4" width="280">
+    </td>
+    <td align="center" width="33%">
+      <img src="Images/Assembled%20shaker/IMG20260530154404.jpg" alt="Assembled shaker view 5" width="280">
+    </td>
+    <td align="center" width="33%">
+      <img src="Images/Assembled%20shaker/IMG20260530154522.jpg" alt="Assembled shaker view 6" width="280">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="Images/Assembled%20shaker/IMG20260604145715.jpg" alt="Assembled shaker view 7" width="280">
+    </td>
+    <td align="center" width="33%">
+      <img src="Images/Assembled%20shaker/IMG20260604145742.jpg" alt="Assembled shaker view 8" width="280">
+    </td>
+    <td align="center" width="33%">
+      <img src="Images/Assembled%20shaker/IMG20260604145746.jpg" alt="Assembled shaker view 9" width="280">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="Images/Assembled%20shaker/IMG20260604145802.jpg" alt="Assembled shaker view 10" width="280">
+    </td>
+    <td align="center" width="33%">
+      <img src="Images/Assembled%20shaker/IMG20260604145818.jpg" alt="Assembled shaker view 11" width="280">
+    </td>
+    <td align="center" width="33%">
+      <img src="Images/Assembled%20shaker/IMG20260604145831.jpg" alt="Assembled shaker view 12" width="280">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="Images/Assembled%20shaker/IMG20260604145834.jpg" alt="Assembled shaker view 13" width="280">
+    </td>
+    <td align="center" width="33%">
+      <img src="Images/Assembled%20shaker/IMG20260604145857.jpg" alt="Assembled shaker view 14" width="280">
+    </td>
+    <td align="center" width="33%">
+      <!-- Empty cell for layout balance -->
+    </td>
+  </tr>
+</table>
+
+![Final test after mounting the all parts in the enclosure](https://github.com/Reclone-org/AccessLabs-Resources/blob/5db09aa9fcda28ca25f65eb672d3c91ae225a04e/hardware/Shaker/Assembly-and-set-up/Final%20Test.webp?raw=true)
+
 
 ### I. Operation
 
