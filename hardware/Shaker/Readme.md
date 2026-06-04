@@ -488,17 +488,17 @@ Route and secure all wiring inside the enclosure.
    - Insert the potentiometer from inside the enclosure.
    - Reinstall the washer and nut from the outside of the enclosure to secure it in place.
 
-#### Peview before final test
+#### Peview before testing assembled system
 <p align="center">
-  <img src="https://github.com/Reclone-org/AccessLabs-Resources/blob/f5452bf5d0a53ace829f39b340297bf367cac5e2/hardware/Shaker/Assembly-and-set-up/Preview%20before%20final%20test.jpg" alt="Peview before final test" width="70%">
+  <img src="https://github.com/Reclone-org/AccessLabs-Resources/blob/f5452bf5d0a53ace829f39b340297bf367cac5e2/hardware/Shaker/Assembly-and-set-up/Preview%20before%20final%20test.jpg" alt="Peview before testing assembled system" width="70%">
 </p>
 
 
-6. Run a final low-speed test before regular operation.
+6. Run a low-speed test before regular operation.
 
-#### Final test preview
+#### System test preview
 
-![Final test after mounting the all parts in the enclosure](https://github.com/Reclone-org/AccessLabs-Resources/blob/5db09aa9fcda28ca25f65eb672d3c91ae225a04e/hardware/Shaker/Assembly-and-set-up/Final%20Test.webp?raw=true)
+![System test after mounting all parts in the enclosure](https://github.com/Reclone-org/AccessLabs-Resources/blob/5db09aa9fcda28ca25f65eb672d3c91ae225a04e/hardware/Shaker/Assembly-and-set-up/Final%20Test.webp?raw=true)
 
 
 7. Close the enclosure using the top and bottom covers.
@@ -578,8 +578,9 @@ The images below show the fully assembled incubator shaker from different angles
   </tr>
 </table>
 
-![Final test after mounting the all parts in the enclosure](https://github.com/Reclone-org/AccessLabs-Resources/blob/5db09aa9fcda28ca25f65eb672d3c91ae225a04e/hardware/Shaker/Assembly-and-set-up/Final%20Test.webp?raw=true)
-
+<p align="center">
+  <img src="https://github.com/Reclone-org/AccessLabs-Resources/blob/12884839887a76ffae6bc284bb7570be1c89f6c8/hardware/Shaker/Assembly-and-set-up/Fully%20Assembled%20shaker.gif?raw=true" alt="Animated view of the fully assembled shaker" width="700">
+</p>
 
 ### I. Operation
 
@@ -597,6 +598,18 @@ For best results:
 - balance the load evenly
 - avoid overloading one side
 - start at low speed after every configuration change
+
+### I. Final system test after full assembly
+
+After completing the mechanical assembly and closing the enclosure, run a final system test before regular use. This test confirms that the electronics, firmware, motion mechanism, tray, and selected adapter work correctly together as a complete system.
+
+#### Fully assembled system test video
+
+Add the video or animated preview here once it is available in the repository:
+
+```html
+<video src="PATH/TO/FULLY-ASSEMBLED-SYSTEM-TEST.mp4" controls width="100%">
+</video>
 
 ---
 
