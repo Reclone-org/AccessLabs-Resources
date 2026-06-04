@@ -605,10 +605,13 @@ After completing the mechanical assembly and closing the enclosure, run a final 
 
 #### Fully assembled system test video
 
-Add the video or animated preview here once it is available in the repository:
+Click the preview below to download the full system test video.
 
-<video src="PATH/TO/FULLY-ASSEMBLED-SYSTEM-TEST.mp4" controls width="100%">
-</video>
+<p align="center">
+  <a href="Assembly-and-set-up/Fully%20assembled%20Final%20system%20test%20video.mp4">
+    <img src="https://github.com/Reclone-org/AccessLabs-Resources/blob/7a0600debbc7cdd625088164b3b0db47bcbcf08b/hardware/Shaker/Assembly-and-set-up/Fully%20assembled%20Final%20system%20test%20video.webp" alt="Fully assembled shaker system test video preview" width="700">
+  </a>
+</p>
 
 ---
 
