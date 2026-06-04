@@ -38,6 +38,10 @@ The aim of the project is to provide a reproducible open-hardware shaker that is
 - LCD and RGB LED feedback
 - Open documentation for replication and customization
 
+<p align="center">
+  <img src="https://github.com/Reclone-org/AccessLabs-Resources/blob/2d0fd04420153bc71bbe0dbd0d690d834421c4fc/hardware/Shaker/Assembly-and-set-up/Assembled%20shaker2_1.jpg?raw=true" alt="Fully assembled shaker front view" width="420">
+  <img src="https://github.com/Reclone-org/AccessLabs-Resources/blob/2d0fd04420153bc71bbe0dbd0d690d834421c4fc/hardware/Shaker/Assembly-and-set-up/Assembled%20shaker2_2..jpg?raw=true" alt="Fully assembled shaker angled view" width="420">
+</p>
 ---
 
 ## Bill of Materials
