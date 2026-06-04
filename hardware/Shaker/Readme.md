@@ -607,7 +607,6 @@ After completing the mechanical assembly and closing the enclosure, run a final 
 
 Add the video or animated preview here once it is available in the repository:
 
-```html
 <video src="PATH/TO/FULLY-ASSEMBLED-SYSTEM-TEST.mp4" controls width="100%">
 </video>
 
