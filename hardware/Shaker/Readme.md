@@ -253,7 +253,7 @@ Recommended first check:
 7. Allow full curing according to the glue manufacturer's recommendations.
 
 <p align="center">
-  <img src="https://github.com/Reclone-org/AccessLabs-Resources/blob/3c989b84fd27de245096676d283afac3215687fa/hardware/Shaker/Assembly-and-set-up/3D%20images/Motion%20mechanism.jpg" alt="Motion Mechanism assembly" width="80%">
+  <img src="https://github.com/Reclone-org/AccessLabs-Resources/blob/3b81ebd03df178d56566679bffc2ef07168fe1a0/hardware/Shaker/Assembly-and-set-up/3D%20images/Motion%20mechanism.jpg" alt="Motion Mechanism assembly" width="80%">
 </p>
 
 <p align="center">
