@@ -253,11 +253,11 @@ Recommended first check:
 7. Allow full curing according to the glue manufacturer's recommendations.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Reclone-org/AccessLabs-Resources/a3064f7d6fa062d5c8d652163d7769e257eb15cf/hardware/Shaker/Images/Electrionics%20parts%20.jpg" alt="Electronics parts overview" width="60%">
+  <img src="https://github.com/Reclone-org/AccessLabs-Resources/blob/3c989b84fd27de245096676d283afac3215687fa/hardware/Shaker/Assembly-and-set-up/3D%20images/Motion%20mechanism.jpg" alt="Motion Mechanism assembly" width="80%">
 </p>
 
 <p align="center">
-  <em>Electronics parts used for the shaker build.</em>
+  <em>Motion Mechanis assembly steps.</em>
 </p>
 
 > **Note:** For the motor linker, the nut located around the shaft should remain unglued if required for fit and rotation.
