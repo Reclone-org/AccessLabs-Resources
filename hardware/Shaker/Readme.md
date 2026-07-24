@@ -257,11 +257,10 @@ Recommended first check:
 </p>
 
 <p align="center">
-  <em>Motion Mechanis assembly steps.</em>
+  <em>Motion Mechanism assembly steps.</em>
 </p>
 
 > **Note:** For the motor linker, the nut located around the shaft should remain unglued if required for fit and rotation.
-
 ---
 
 ### C. Prepare the enclosure
@@ -274,10 +273,20 @@ Recommended first check:
 - `Enclosure_Feet`
 
 #### Instructions
-1. Install bearings in their dedicated holes where applicable.
-2. Mount the gear motor in the motor holder.
-3. Check shaft alignment before tightening hardware.
-4. Test fit the top and base covers before the final electronics closure.
+1. Install bearings in their dedicated holes of the top cover where applicable.
+> **Note:**: use soft glue to fix bearings so as to enable slide movements of once glued: we used xxxx which wored well for us
+2. Assemble the top cover
+3. Mount the gear motor in the motor holder.
+4. Test fit the top and base covers before electronics assembly.
+5. Check shaft alignment before tightening hardware.
+
+<p align="center">
+  <img src="https://github.com/Reclone-org/AccessLabs-Resources/blob/3b81ebd03df178d56566679bffc2ef07168fe1a0/hardware/Shaker/Assembly-and-set-up/3D%20images/Motion%20mechanism.jpg" alt="Motion Mechanism assembly" width="85%">
+</p>
+
+<p align="center">
+  <em>Motion Mechanism assembly steps.</em>
+</p>
 
 ---
 
