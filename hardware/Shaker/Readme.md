@@ -731,6 +731,4 @@ Useful contributions include:
 Contributions can be proposed through issues, pull requests, or design discussions.
 ---
 
-## Project note
-
 If you use or adapt this design, consider linking back to the original repository and documenting your modifications.
