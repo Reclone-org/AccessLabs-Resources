@@ -274,7 +274,7 @@ Recommended first check:
 
 #### Instructions
 1. Install bearings in their dedicated holes of the top cover where applicable.
-> **Note:**: use soft glue to fix bearings so as to enable slide movements of once glued: we used xxxx which wored well for us
+> **Note:**: use soft glue to fix bearings so as to enable slide movements of once glued: we used the **super 620, Glue Artiglio** which wored well for us
 2. Assemble the top cover
 3. Mount the gear motor in the motor holder.
 4. Test fit the top and base covers before electronics assembly.
@@ -286,6 +286,16 @@ Recommended first check:
 
 <p align="center">
   <em>Assembly steps 2.</em>
+</p>
+
+#### Top Cover assembly order
+
+Click the preview below to download the full video.
+
+<p align="center">
+  <a href="https://github.com/Reclone-org/AccessLabs-Resources/blob/76ed58e3b9f4448dbe461207be13629689c9c077/hardware/Shaker/Assembly-and-set-up/Top%20cover%20assembly.mp4">
+    <img src="https://github.com/Reclone-org/AccessLabs-Resources/blob/76ed58e3b9f4448dbe461207be13629689c9c077/hardware/Shaker/Assembly-and-set-up/Top%20cover%20assembly.gif" alt="Top Cover assembly order" width="700">
+  </a>
 </p>
 
 ---
