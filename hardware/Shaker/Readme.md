@@ -539,6 +539,24 @@ Route and secure all wiring inside the enclosure.
 9. Glue the feet to the bottom of the enclosure.
 
 10. Screw the top and bottom enclosure covers in place.
+
+## 🔩 Screws and fasteners
+
+The shaker design uses **M3 screws and nuts** for the main mechanical assembly.
+
+Screw holes are intentionally designed to be tight. This allows the screw to create its own path while being inserted, which helps the parts hold firmly once assembled. Because of this, the screws may be harder to insert the first time.
+
+### Suggested screw dimensions
+
+| Assembly part | Suggested screw size |
+|---|---|
+| Motion mechanism screw holders | M3 × 16 mm |
+| Top and bottom enclosure covers | M3 × 10 mm |
+| Screws inside the main box | M3 × 12 mm |
+| Motion mechanism motor motion linker | M3 × 8 mm |
+| Tray main platform screws | M3 × 20 mm |
+
+> **Note:** These screw lengths were used for this build, but they can be adjusted depending on your print quality, material, and assembly needs. The most important point is to choose a screw length that is long enough to hold the parts securely, but not so long that it damages the printed part, blocks movement, or interferes with the electronics or motion mechanism.
     
 11. Attach the tray platform.
 
