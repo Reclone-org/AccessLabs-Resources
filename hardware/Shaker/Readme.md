@@ -274,7 +274,7 @@ Recommended first check:
 
 #### Instructions
 1. Install bearings in their dedicated holes of the top cover where applicable.
-> **Note:**: use soft glue to fix bearings so as to enable slide movements of once glued: we used the **super 620, Glue Artiglio** which wored well for us
+> **Note:**: use soft glue to fix bearings so as to enable slide movements of once glued: we used the **super 620, Glue Artiglio** which worked well for us
 2. Assemble the top cover
 3. Mount the gear motor in the motor holder.
 4. Test fit the top and base covers before electronics assembly.
