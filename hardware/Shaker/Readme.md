@@ -554,6 +554,7 @@ Screw holes are intentionally designed to be tight. This allows the screw to cre
 | Top and bottom enclosure covers | M3 × 10 mm |
 | Screws inside the main box | M3 × 12 mm |
 | Motion mechanism motor motion linker | M3 × 8 mm |
+| Motion mechanism Connecting Link | M3 × 20 mm |
 | Tray main platform | M3 × 20 mm |
 
 > **Note:** These screw lengths were used for this build, but they can be adjusted depending on your print quality, material, and assembly needs. The most important point is to choose a screw length that is long enough to hold the parts securely, but not so long that it damages the printed part, blocks movement, or interferes with the motion mechanism.
