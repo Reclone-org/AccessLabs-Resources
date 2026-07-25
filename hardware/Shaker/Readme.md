@@ -253,11 +253,11 @@ Recommended first check:
 7. Allow full curing according to the glue manufacturer's recommendations.
 
 <p align="center">
-  <img src="https://github.com/Reclone-org/AccessLabs-Resources/blob/3b81ebd03df178d56566679bffc2ef07168fe1a0/hardware/Shaker/Assembly-and-set-up/3D%20images/Motion%20mechanism.jpg" alt="Motion Mechanism assembly" width="85%">
+  <img src="https://github.com/Reclone-org/AccessLabs-Resources/blob/3b81ebd03df178d56566679bffc2ef07168fe1a0/hardware/Shaker/Assembly-and-set-up/3D%20images/Motion%20mechanism.jpg" alt="Assembly steps 1: Motion Mechanism" width="85%">
 </p>
 
 <p align="center">
-  <em>Motion Mechanism assembly steps.</em>
+  <em>Assembly steps 1.</em>
 </p>
 
 > **Note:** For the motor linker, the nut located around the shaft should remain unglued if required for fit and rotation.
@@ -281,11 +281,11 @@ Recommended first check:
 5. Check shaft alignment before tightening hardware.
 
 <p align="center">
-  <img src="https://github.com/Reclone-org/AccessLabs-Resources/blob/025e9b67f211f3be1d05397b990782068a83e34c/hardware/Shaker/Assembly-and-set-up/3D%20images/Assembly%20overview.jpg" alt="Top cover assembly" width="85%">
+  <img src="https://github.com/Reclone-org/AccessLabs-Resources/blob/025e9b67f211f3be1d05397b990782068a83e34c/hardware/Shaker/Assembly-and-set-up/3D%20images/Assembly%20overview.jpg" alt="Assembly steps 2" width="85%">
 </p>
 
 <p align="center">
-  <em>Top cover assembly.</em>
+  <em>Assembly steps 2.</em>
 </p>
 
 ---
