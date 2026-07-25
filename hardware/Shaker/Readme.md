@@ -281,7 +281,7 @@ Recommended first check:
 5. Check shaft alignment before tightening hardware.
 
 <p align="center">
-  <img src="https://github.com/Reclone-org/AccessLabs-Resources/blob/025e9b67f211f3be1d05397b990782068a83e34c/hardware/Shaker/Assembly-and-set-up/3D%20images/Assembly%20overview.jpg" alt="Assembly steps 2" width="85%">
+  <img src="https://github.com/Reclone-org/AccessLabs-Resources/blob/819e0553a5c0eada940de2f8c3a685fa42d32fed/hardware/Shaker/Assembly-and-set-up/3D%20images/Assembly%20overview.jpg" alt="Assembly steps 2" width="85%">
 </p>
 
 <p align="center">
